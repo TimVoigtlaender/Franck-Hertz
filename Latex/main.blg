@@ -1,48 +1,53 @@
 This is BibTeX, Version 0.99d (TeX Live 2016/Arch Linux)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: main.aux
-I found no \citation commands---while reading file main.aux
-I found no \bibdata command---while reading file main.aux
-I found no \bibstyle command---while reading file main.aux
-You've used 0 entries,
-            0 wiz_defined-function locations,
-            83 strings with 482 characters,
-and the built_in function-call counts, 0 in all, are:
-= -- 0
-> -- 0
+The style file: babalpha.bst
+Database file #1: lit.bib.bib
+Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Warning--to sort, need author, editor, or key in HND1
+Reallocated singl_function (elt_size=8) to 100 items from 50.
+Warning--empty language in HND1
+Warning--empty author and editor in HND1
+Warning--empty year in HND1
+You've used 1 entry,
+            3213 wiz_defined-function locations,
+            697 strings with 6405 characters,
+and the built_in function-call counts, 312 in all, are:
+= -- 20
+> -- 1
 < -- 0
 + -- 0
 - -- 0
-* -- 0
-:= -- 0
-add.period$ -- 0
-call.type$ -- 0
-change.case$ -- 0
-chr.to.int$ -- 0
-cite$ -- 0
-duplicate$ -- 0
-empty$ -- 0
+* -- 27
+:= -- 43
+add.period$ -- 2
+call.type$ -- 1
+change.case$ -- 3
+chr.to.int$ -- 1
+cite$ -- 6
+duplicate$ -- 19
+empty$ -- 37
 format.name$ -- 0
-if$ -- 0
-int.to.chr$ -- 0
+if$ -- 60
+int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 0
-newline$ -- 0
+missing$ -- 1
+newline$ -- 20
 num.names$ -- 0
-pop$ -- 0
-preamble$ -- 0
-purify$ -- 0
+pop$ -- 12
+preamble$ -- 1
+purify$ -- 5
 quote$ -- 0
-skip$ -- 0
+skip$ -- 9
 stack$ -- 0
-substring$ -- 0
-swap$ -- 0
+substring$ -- 8
+swap$ -- 2
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 0
-warning$ -- 0
+type$ -- 4
+warning$ -- 4
 while$ -- 0
-width$ -- 0
-write$ -- 0
-(There were 3 error messages)
+width$ -- 2
+write$ -- 23
+(There were 4 warnings)

@@ -1,33 +1,23 @@
 \select@language {ngerman}
 \select@language {ngerman}
-\contentsline {chapter}{\numberline {1}Aufgabe 1: Bestimung Temperaturabhaenginger Wiederstaende}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}Messung}{1}{section.1.1}
-\contentsline {section}{\numberline {1.2}Auswertung}{2}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}NTC}{2}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}PT100}{3}{subsection.1.2.2}
-\contentsline {chapter}{\numberline {2}Aufgabe 2: Kennlinien Elektrischer Bauelemente}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Grundlagen}{4}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Halbleiter}{4}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Der P-N \IeC {\"U}bergang}{4}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Zenerdiode}{5}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Die Leuchtdiode}{5}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Varistor}{5}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Der Fotowiderstand}{5}{subsection.2.1.6}
-\contentsline {subsection}{\numberline {2.1.7}Die Fotodiode}{5}{subsection.2.1.7}
-\contentsline {section}{\numberline {2.2}Anwendungen von Zenerdiodeund Varistor}{6}{section.2.2}
-\contentsline {section}{\numberline {2.3}Kennlinienvermessung verschiedener Bauelemente}{6}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Silizium Diode}{7}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Germaniumdiode}{7}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Zenerdiode}{8}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Varistor}{8}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Leuchtdioden}{8}{subsection.2.3.5}
-\contentsline {section}{\numberline {2.4}Photowiederstand}{9}{section.2.4}
-\contentsline {section}{\numberline {2.5}Fotodiode}{10}{section.2.5}
-\contentsline {section}{\numberline {2.6}Bemerkungen}{10}{section.2.6}
-\contentsline {chapter}{\numberline {3}Aufgabe 3: Verhalten eines Phototransistors unter verschiedenen Beleuchtungsstaerken}{16}{chapter.3}
-\contentsline {chapter}{\numberline {4}Aufgabe 4: Der Piezoelektrische Effekt am Piezoelement}{18}{chapter.4}
-\contentsline {section}{\numberline {4.1}Grundlagen}{18}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Beobachtung des piezoelektrischen Effektes als Lautsprecher}{19}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Der Piezoelektrische Effekt}{19}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}Anwendungen des Piezoeffektes}{20}{section.4.2}
-\contentsline {chapter}{\numberline {5}Aufgabe 5: Bestimmung der Sprungtemperatur eines Hochtemperatursupraleiters}{21}{chapter.5}
+\contentsline {chapter}{\numberline {1}Aufgabe1: Messung der Frank Hertz Kurve unter verschiedenen Bedingungen}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Aufbau}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Bestimmung der Kontaktspannung zwischen Kathode und Anode}{1}{section.1.2}
+\contentsline {section}{\numberline {1.3}Das Raumladungsgesetz}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Ionisationsarbeit}{5}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Methode a}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Methode b}{6}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Emissionsspektrum der Gasentladung}{6}{section.1.5}
+\contentsline {chapter}{\numberline {2}Aufgabe 2: Bestimmung der Frank Hertz Kurve fuer die Zweite Anregung}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Versuchsbedingungen}{8}{section.2.1}
+\contentsline {section}{\numberline {2.2}Beobachtungen}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Bemerkungen zur Einstellung des Versuches}{8}{section.2.3}
+\contentsline {chapter}{\numberline {3}Aufgabe 3: Der Franck Hertz versuch mit Neon}{10}{chapter.3}
+\contentsline {section}{\numberline {3.1}Versuchsaufbau}{10}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Heizen des Versuchsaufbaus}{10}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Beobachtungen und Interpretation}{10}{section.3.2}
+\contentsline {chapter}{Literaturverzeichnis}{11}{chapter*.13}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}
+\select@language {ngerman}

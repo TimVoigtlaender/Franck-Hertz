@@ -1,11 +1,24 @@
-In diesem Versuch ermitteln wir die Stoffe einiger unbekannter Präparate.
-\begin{figure}
+\section{Versuchsaufbau}
+In diesem Versuchsteil wird nun effektiv der gleiche Versuch wie in Kapitel 1 durchgefuehrt, mit dem entscheidenden Unterschied, dass anstelle des verwendeten Hg nun Neon zum Einsatz kommt.
+Da ein anderes Gas verwendet wird, werden auch andere Anregungsenergien erwartet.
+Bei der Anregung von Neon durch Elektronen ist ein Uebergang von Grundzustand in einen der 10 3p Zustaende am wahrscheinlichsten. Diese Liegen in einem Bereich von 18,4 - 19 V \cite{HND1}.
+Beim Uebergang vom 3p in den 3s zustand werden Photonen im Sichtbaren bereich emittiert. Der Uebergang aus dem 3s zustand in den Grundzustand emmitiert Photonen im UV bereich.
+\subsection{Heizen des Versuchsaufbaus}
+Heizen des Versuchsaufbaus ergibt hier wenig Sinn, da nun ein Gas anstelle eines Dampfes vorliegt. Damit aendert sich die Teilchendichte nicht mit der Temperatur.
+\section{Beobachtungen und Interpretation}
+Die in \ref{tab:gemesseneAnregungsenergieNeon} gelisteten, gemessenen Maxima bestaetigen die geaeusserten Vermutungen.
+Im Stossraum koennen zudem pro gemessenen Peak eine leuchtende Scheibe gesehen werden. Diese Scheiben sind die Stosszonen der verschiedenen Elektronen.
+\begin{table}
 	\centering
-	\includegraphics[width=\textwidth]{../Daten/Aufgabe 3/Alle_Messungen_2.png}
-	\caption{Röntgenpeaks der gemessenen Präparate}
-\end{figure}
-Hierzu Eichen wir zunächst die Energieskala mithilfe des Bariumpeaks. Dieser hält sich bei Kanal 89,279 auf und sollte nach der in der Versuchsbeschreibung gegebenen Tabelle bei 32,1 keV liegen. Wir erhalten somit die Eichung:
-\begin{align*}
-E_{Kanal}=\frac{32,1\; keV}{89,279}\cdot n_{Kanal}
-\end{align*}
-Zur überprüfung dieses Wertes vergleichen wir auch den Bleipeak mit dem gegebenen Wert. Der gemessene Wert beträgt 72,486 keV und der literaturwert 74,1 keV. Wir erhalten hier alo einen Fehler von 2,18\%. Für das unbekannte Präparat B lesen wir 57,056 keV ab, was am ehesten zu Tantal passt, welches mit 57,1 keV angegeben ist. Für das unbekannte Präparat C lesen wir 58,682 keV ab, was am ehesten zu Wolfram mit 58,8 keV passt. Beim unbekannten Präparat D haben wir zusätzlich zum gesuchten Peak noch einen weiteren Peak gemessen, der wohl vom Barium stammt, mit dem das präparat bestrahlt wurde. Wir messen hier 65,904 keV, was am ehesten Platin (66,2 keV) entspricht. Beim unbekannte Präparat E ist es schwer einen Peak auszumachen. Beim Vergleich mit den anderen Graphen können wir jedoch eine kleine Erhöhung bei 22,897 keV feststellen. Dies entspricht etwa dem gegebenen Wert für Silber (22,1 keV). Die unbekannten Materialien sind also Tantal, Wolfram, Platin und Silber.
+	\caption{Anregungsniveaus von Neon}
+	\begin{tabular}{c c}
+		Anzahl der Stoesse & Gegenspannung des Peaks in V \\
+		\midrule
+		1 & 18,3 \\
+		2 & 25,6 \\
+		3 & 55,7 \\
+	\end{tabular}
+	\label{tab:gemesseneAnregungsenergieNeon}
+\end{table}
+Eine Lineare Regression der gemessenen werte ergibt eine Steigung von 18,7 V / Anregung was Genau im von der Vorbereitungsliteratur angegebenen Intervalls liegt.
+
