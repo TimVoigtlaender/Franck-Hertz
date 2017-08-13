@@ -3,20 +3,20 @@
 \contentsline {chapter}{\numberline {1}Aufgabe1: Messung der Frank Hertz Kurve unter verschiedenen Bedingungen}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Aufbau}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Bestimmung der Kontaktspannung zwischen Kathode und Anode}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Das Raumladungsgesetz}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}Ionisationsarbeit}{5}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Methode a}{5}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Methode b}{6}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Emissionsspektrum der Gasentladung}{6}{section.1.5}
-\contentsline {chapter}{\numberline {2}Aufgabe 2: Bestimmung der Frank Hertz Kurve fuer die Zweite Anregung}{8}{chapter.2}
-\contentsline {section}{\numberline {2.1}Versuchsbedingungen}{8}{section.2.1}
-\contentsline {section}{\numberline {2.2}Beobachtungen}{8}{section.2.2}
-\contentsline {section}{\numberline {2.3}Bemerkungen zur Einstellung des Versuches}{8}{section.2.3}
-\contentsline {chapter}{\numberline {3}Aufgabe 3: Der Franck Hertz versuch mit Neon}{10}{chapter.3}
-\contentsline {section}{\numberline {3.1}Versuchsaufbau}{10}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Heizen des Versuchsaufbaus}{10}{subsection.3.1.1}
-\contentsline {section}{\numberline {3.2}Beobachtungen und Interpretation}{10}{section.3.2}
-\contentsline {chapter}{Literaturverzeichnis}{11}{chapter*.13}
+\contentsline {section}{\numberline {1.3}Das Raumladungsgesetz}{2}{section.1.3}
+\contentsline {section}{\numberline {1.4}Ionisationsarbeit}{2}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Bestimmung durch Graphische Ermittelung des Anstiegspunkts}{2}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Bestimmung \IeC {\"u}ber Auff\IeC {\"a}ngerspannung}{2}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Emissionsspektrum der Gasentladung}{2}{section.1.5}
+\contentsline {chapter}{\numberline {2}Aufgabe 2: Bestimmung der Frank Hertz Kurve fuer die Zweite Anregung}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Versuchsbedingungen}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Beobachtungen}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Bemerkungen zur Einstellung des Versuches}{7}{section.2.3}
+\contentsline {chapter}{\numberline {3}Aufgabe 3: Der Franck Hertz versuch mit Neon}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Versuchsaufbau}{9}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Heizen des Versuchsaufbaus}{9}{subsection.3.1.1}
+\contentsline {section}{\numberline {3.2}Beobachtungen und Interpretation}{9}{section.3.2}
+\contentsline {chapter}{Literaturverzeichnis}{10}{chapter*.14}
 \select@language {ngerman}
 \select@language {ngerman}
 \select@language {ngerman}
