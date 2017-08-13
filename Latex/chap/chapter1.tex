@@ -28,10 +28,9 @@ U_{Th}=U_{n}+U_{1}-n\cdot \overline{\Delta U}\text{,}
 Hierbei ist $ \overline{\Delta U} $ der gemittelte Wert der $ \Delta U $ und $ U_{n} $ die Spannung des n-ten Peaks.
 
 Aus diesen Werten erhalten wir nun den gemittelten Wert $ \overline{U_{th}} =6,407\; $V.
-\begin{center}
-	Tabelle 1: Thermospannung in Abhängigkeit der Temperatur
-\end{center}
-\begin{center}
+\begin{tabel}
+	\centering
+	\caption {Thermospannung in Abhängigkeit der Temperatur}
 	\begin{tabular}{|c|c|}
 		\hline
 		Temperatur in $^\circ$C & U$_{th}$ in V \\ \hline
@@ -41,8 +40,7 @@ Aus diesen Werten erhalten wir nun den gemittelten Wert $ \overline{U_{th}} =6,4
 		140           &     6,553     \\ \hline
 		120           &     6,427     \\ \hline
 	\end{tabular} 
-\end{center}
-\newpage
+\end{tabel}
 \section{Das Raumladungsgesetz}
 Nun überprüfen wir das Raumladungsgesetz bei einer Temperatur von 120 $ ^\circ $C. Wir erwarten einen Zusammenhang der Form $I\propto U_{2}^{3/2}  $, weswegen wir die Messdaten wie folgt fitten
 \begin{align*}
@@ -60,14 +58,14 @@ Nun wollen wir die Ionisationsarbeit von Quecksilber bei 120 $ ^\circ $C bestimm
 Zunächst bestimmen wir die Ionisationsarbeit indem wir die Stromstärke I$ _{in} $ über die Spannung U$ _2 $ auftragen und zwei Geraden durch die Messpunkte legen. Der Schnittpunkt der Geraden beschreibt dann den Anstiegspunkt und damit die Ionisationsarbeit. Hierbei stellt sich jedoch heraus, das einige Werte zu stark von der Form einer Geraden abweichen, weswegen diese Messpunkte vernachlässigt wurden. 
 \begin{figure}
 	\includegraphics[width=\textwidth]{../Daten/Aufgabe1/Aufgabe1_4.png}
-	\caption{Fit der Messwerte zu Aufgabe 1.4.a}
+	\caption{Fit der Messwerte zu Aufgabe 1.4.1}
 \end{figure}
 
 Der Schnittpunkt befindet sich bei U$ _2 $= 5,579 V. Verrechnen wir nun noch die Thermokontaktspannung aus Kapitel 1.1 erhalten wir die Ionisationsarbeit 11,986 eV. Dies entspricht einer Abweichung vom Literaturwert (10,44 eV) von 12,9\%. Wir vermuten, dass dieser Fehler aufgrund von nicht beachteten Umständen während der Versuchsdurchführung entstand, da die gemessenen Werte ebenfalls sehr ungewöhnlich aussehen.
 \subsection{Bestimmung über Auffängerspannung}
 \begin{figure}
 	\includegraphics[width=\textwidth]{../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf}
-	\caption{Graph zu Aufgabe 1.4.b}
+	\caption{Auffängerspannung über Beschleunigungsspannung zu Aufgabe 1.4.2}
 \end{figure}
 Als zweite Variante wurde die Spannung direkt aus der im Graphen ablesbaren Auffängerspannung ermittelt, wobei dieser ebenfalls Ungewöhnlich aussieht. Mit dieser Methode erhalten wir eine Ionisationsarbeit von 10,789 eV, was einem Fehler von 3,2\% entspricht.
 \section{Emissionsspektrum der Gasentladung}
