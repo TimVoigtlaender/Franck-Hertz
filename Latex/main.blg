@@ -4,50 +4,51 @@ The top-level auxiliary file: main.aux
 The style file: babalpha.bst
 Database file #1: lit.bib.bib
 Reallocated wiz_functions (elt_size=8) to 6000 items from 3000.
+Warning--to sort, need author or key in FHR
 Warning--to sort, need author, editor, or key in HND1
 Reallocated singl_function (elt_size=8) to 100 items from 50.
-Warning--empty language in HND1
+Warning--empty language in FHR
 Warning--empty author and editor in HND1
 Warning--empty year in HND1
-You've used 1 entry,
+You've used 2 entries,
             3213 wiz_defined-function locations,
-            697 strings with 6405 characters,
-and the built_in function-call counts, 312 in all, are:
-= -- 20
-> -- 1
+            700 strings with 6468 characters,
+and the built_in function-call counts, 543 in all, are:
+= -- 39
+> -- 2
 < -- 0
 + -- 0
 - -- 0
-* -- 27
-:= -- 43
-add.period$ -- 2
-call.type$ -- 1
-change.case$ -- 3
-chr.to.int$ -- 1
-cite$ -- 6
-duplicate$ -- 19
-empty$ -- 37
+* -- 41
+:= -- 64
+add.period$ -- 3
+call.type$ -- 2
+change.case$ -- 6
+chr.to.int$ -- 2
+cite$ -- 9
+duplicate$ -- 32
+empty$ -- 73
 format.name$ -- 0
-if$ -- 60
+if$ -- 117
 int.to.chr$ -- 1
 int.to.str$ -- 0
 missing$ -- 1
-newline$ -- 20
+newline$ -- 23
 num.names$ -- 0
-pop$ -- 12
+pop$ -- 24
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 10
 quote$ -- 0
-skip$ -- 9
+skip$ -- 26
 stack$ -- 0
-substring$ -- 8
-swap$ -- 2
+substring$ -- 16
+swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 4
+type$ -- 12
+warning$ -- 5
 while$ -- 0
-width$ -- 2
-write$ -- 23
-(There were 4 warnings)
+width$ -- 3
+write$ -- 28
+(There were 5 warnings)

@@ -3,11 +3,11 @@
 \contentsline {chapter}{\numberline {1}Aufgabe1: Messung der Frank Hertz Kurve unter verschiedenen Bedingungen}{1}{chapter.1}
 \contentsline {section}{\numberline {1.1}Aufbau}{1}{section.1.1}
 \contentsline {section}{\numberline {1.2}Bestimmung der Kontaktspannung zwischen Kathode und Anode}{1}{section.1.2}
-\contentsline {section}{\numberline {1.3}Das Raumladungsgesetz}{1}{section.1.3}
-\contentsline {section}{\numberline {1.4}Ionisationsarbeit}{2}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Bestimmung durch Graphische Ermittelung des Anstiegspunkts}{2}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Bestimmung \IeC {\"u}ber Auff\IeC {\"a}ngerspannung}{2}{subsection.1.4.2}
-\contentsline {section}{\numberline {1.5}Emissionsspektrum der Gasentladung}{2}{section.1.5}
+\contentsline {section}{\numberline {1.3}Das Raumladungsgesetz}{4}{section.1.3}
+\contentsline {section}{\numberline {1.4}Ionisationsarbeit}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Bestimmung durch Graphische Ermittelung des Anstiegspunkts}{5}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Bestimmung \IeC {\"u}ber Auff\IeC {\"a}ngerspannung}{5}{subsection.1.4.2}
+\contentsline {section}{\numberline {1.5}Emissionsspektrum der Gasentladung}{5}{section.1.5}
 \contentsline {chapter}{\numberline {2}Aufgabe 2: Bestimmung der Frank Hertz Kurve fuer die Zweite Anregung}{7}{chapter.2}
 \contentsline {section}{\numberline {2.1}Versuchsbedingungen}{7}{section.2.1}
 \contentsline {section}{\numberline {2.2}Beobachtungen}{7}{section.2.2}

@@ -13,6 +13,10 @@
   \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
 
 \expandafter\btxselectlanguage\expandafter {\btxfallbacklanguage}
+\bibitem [{FHR}]{FHR}
+{\latintext
+  \btxurlfont{http://dodo.fb06.fh-muenchen.de/lab_didaktik/at-1-2-n.htm}}.
+
 \bibitem [{HND}]{HND1}
 \btxtitlefont {Handblaetter Physik Atom und Kernphysik}.
 \newblock \btxpublisherfont {Leybold Didaktik}, Huerth.

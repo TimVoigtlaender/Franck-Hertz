@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.8.12)  13 AUG 2017 15:21
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.8.12)  13 AUG 2017 15:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2049,7 +2049,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 114.
 (./chap/chapter1.tex
-<../Daten/Aufgabe1/Aufbau.png, id=150, 528.97626pt x 470.75874pt>
+<../Daten/Aufgabe1/Aufbau.png, id=152, 528.97626pt x 470.75874pt>
 File: ../Daten/Aufgabe1/Aufbau.png Graphic file (type png)
 <use ../Daten/Aufgabe1/Aufbau.png>
 Package pdftex.def Info: ../Daten/Aufgabe1/Aufbau.png  used on input line 4. on
@@ -2064,7 +2064,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 9.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 9.
-<../Daten/Aufgabe1/Frank_Hertz_140.pdf, id=151, pagebox=cropbox, 845.1575pt x 5
+<../Daten/Aufgabe1/Frank_Hertz_140.pdf, id=155, pagebox=cropbox, 845.1575pt x 5
 97.23125pt>
 File: ../Daten/Aufgabe1/Frank_Hertz_140.pdf Graphic file (type pdf)
 <use ../Daten/Aufgabe1/Frank_Hertz_140.pdf>
@@ -2074,7 +2074,7 @@ Package pdftex.def Info: Requested size: 427.43153pt x 302.05049pt on input lin
 e 13.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <5> on input line 14.
-<../Daten/Aufgabe1/Frank_Hertz_150.pdf, id=152, pagebox=cropbox, 845.1575pt x 5
+<../Daten/Aufgabe1/Frank_Hertz_150.pdf, id=156, pagebox=cropbox, 845.1575pt x 5
 97.23125pt>
 File: ../Daten/Aufgabe1/Frank_Hertz_150.pdf Graphic file (type pdf)
 <use ../Daten/Aufgabe1/Frank_Hertz_150.pdf>
@@ -2082,7 +2082,7 @@ Package pdftex.def Info: ../Daten/Aufgabe1/Frank_Hertz_150.pdf  used on input l
 ine 15. on input line 15.
 Package pdftex.def Info: Requested size: 427.43153pt x 302.05049pt on input lin
 e 15.
-<../Daten/Aufgabe1/Frank_Hertz_160.pdf, id=153, pagebox=cropbox, 845.1575pt x 5
+<../Daten/Aufgabe1/Frank_Hertz_160.pdf, id=157, pagebox=cropbox, 845.1575pt x 5
 97.23125pt>
 File: ../Daten/Aufgabe1/Frank_Hertz_160.pdf Graphic file (type pdf)
 <use ../Daten/Aufgabe1/Frank_Hertz_160.pdf>
@@ -2090,7 +2090,7 @@ Package pdftex.def Info: ../Daten/Aufgabe1/Frank_Hertz_160.pdf  used on input l
 ine 19. on input line 19.
 Package pdftex.def Info: Requested size: 427.43153pt x 302.05049pt on input lin
 e 19.
-<../Daten/Aufgabe1/Frank_Hertz_170.pdf, id=154, pagebox=cropbox, 845.1575pt x 5
+<../Daten/Aufgabe1/Frank_Hertz_170.pdf, id=158, pagebox=cropbox, 845.1575pt x 5
 97.23125pt>
 File: ../Daten/Aufgabe1/Frank_Hertz_170.pdf Graphic file (type pdf)
 <use ../Daten/Aufgabe1/Frank_Hertz_170.pdf>
@@ -2099,10 +2099,55 @@ ine 21. on input line 21.
 Package pdftex.def Info: Requested size: 427.43153pt x 302.05049pt on input lin
 e 21.
 Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+ [1
+
+
+
+
+
+
+
+ <../Daten/Aufgabe1/Aufbau.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+ [2 <../Daten/Aufgabe1/Frank_Hertz_140.pdf> <../Daten/Aufgabe1/Frank_Hertz_150.
+pdf
+
+pdfTeX warning: pdflatex (file ../Daten/Aufgabe1/Frank_Hertz_150.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 27.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 27.
+ [3 <../Daten/Aufgabe1/Frank_Hertz_160.pdf> <../Daten/Aufgabe1/Frank_Hertz_170.
+pdf
+
+pdfTeX warning: pdflatex (file ../Daten/Aufgabe1/Frank_Hertz_170.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 44.
-<../Daten/Aufgabe1/Aufgabe1_3.png, id=155, 1927.2pt x 1004.75375pt>
+<../Daten/Aufgabe1/Aufgabe1_3.png, id=185, 1927.2pt x 1004.75375pt>
 File: ../Daten/Aufgabe1/Aufgabe1_3.png Graphic file (type png)
 <use ../Daten/Aufgabe1/Aufgabe1_3.png>
 Package pdftex.def Info: ../Daten/Aufgabe1/Aufgabe1_3.png  used on input line 5
@@ -2117,7 +2162,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 57.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 57.
-<../Daten/Aufgabe1/Aufgabe1_4.png, id=156, 1927.2pt x 1004.75375pt>
+<../Daten/Aufgabe1/Aufgabe1_4.png, id=186, 1927.2pt x 1004.75375pt>
 File: ../Daten/Aufgabe1/Aufgabe1_4.png Graphic file (type png)
 <use ../Daten/Aufgabe1/Aufgabe1_4.png>
 Package pdftex.def Info: ../Daten/Aufgabe1/Aufgabe1_4.png  used on input line 6
@@ -2132,20 +2177,12 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 63.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 63.
- [1
-
-
-
-
-
-
-
-]
+ [4 <../Daten/Aufgabe1/Aufgabe1_3.png>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 65.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 65.
-<../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf, id=164, pagebox=cropbox, 845.1575pt
+<../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf, id=196, pagebox=cropbox, 845.1575pt
  x 597.23125pt>
 File: ../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf Graphic file (type pdf)
 <use ../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf>
@@ -2166,7 +2203,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 116.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 116.
- [2 <../Daten/Aufgabe1/Aufbau.png>]
+ [5 <../Daten/Aufgabe1/Aufgabe1_4.png>]
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 116.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2175,45 +2212,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 116.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 116.
- [3 <../Daten/Aufgabe1/Frank_Hertz_140.pdf> <../Daten/Aufgabe1/Frank_Hertz_150.
-pdf
-
-pdfTeX warning: pdflatex (file ../Daten/Aufgabe1/Frank_Hertz_150.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
- [4 <../Daten/Aufgabe1/Frank_Hertz_160.pdf> <../Daten/Aufgabe1/Frank_Hertz_170.
-pdf
-
-pdfTeX warning: pdflatex (file ../Daten/Aufgabe1/Frank_Hertz_170.pdf): PDF incl
-usion: multiple pdfs with page group included in a single page
->]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
- [5 <../Daten/Aufgabe1/Aufgabe1_3.png> <../Daten/Aufgabe1/Aufgabe1_4.png>]
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 116.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 116.
-
-[6 <../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf>]
+ [6 <../Daten/Aufgabe1/Frank_Hertz_1_4_b_2.pdf>]
 chapter 2.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 116.
@@ -2233,7 +2232,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 7.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 7.
-<../Daten/Frank_Hertz_2.pdf, id=206, pagebox=cropbox, 845.1575pt x 597.23125pt>
+<../Daten/Frank_Hertz_2.pdf, id=210, pagebox=cropbox, 845.1575pt x 597.23125pt>
 
 File: ../Daten/Frank_Hertz_2.pdf Graphic file (type pdf)
 <use ../Daten/Frank_Hertz_2.pdf>
@@ -2312,6 +2311,14 @@ babelbib: Using the BibTeX style's default font for `ISBN'.
 babelbib: Using the BibTeX style's default font for `ISSN'.
 babelbib: Using the BibTeX style's default font for `url'.
 babelbib: Using the BibTeX style's default font for `numeral'.
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 18.
+(/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `lmtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
 )
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 145.
@@ -2334,16 +2341,16 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 24CE334AFFD780E5A6B4D8BDB62D1010;1473.
  ) 
 Here is how much of TeX's memory you used:
- 36366 strings out of 492990
- 709870 string characters out of 6138688
- 908542 words of memory out of 5000000
- 39158 multiletter control sequences out of 15000+600000
- 647751 words of font info for 147 fonts, out of 8000000 for 9000
+ 36406 strings out of 492990
+ 710494 string characters out of 6138688
+ 908569 words of memory out of 5000000
+ 39195 multiletter control sequences out of 15000+600000
+ 647987 words of font info for 147 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  71i,20n,68p,10428b,797s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/share/texmf-dist/fo
-nts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.
-enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf-d
+nts/enc/dvips/lm/lm-rm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathit.
+enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/share/texmf-d
 ist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fonts/type1/public/lm/lm
 bx10.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/share/te
 xmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/share/texmf-dist/fonts/type1/pu
@@ -2355,12 +2362,13 @@ fonts/type1/public/lm/lmss12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/l
 mss17.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share
 /texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/share/texmf-dist/fonts/type1
 /public/lm/lmsy7.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></u
-sr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/
-fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (13 pages, 523169 bytes).
+sr/share/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/share/texmf-dist/fon
+ts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helveti
+c/uhvr8a.pfb>
+Output written on main.pdf (13 pages, 546536 bytes).
 PDF statistics:
- 308 PDF objects out of 1000 (max. 8388607)
- 256 compressed objects within 3 object streams
- 47 named destinations out of 1000 (max. 500000)
- 37071 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 317 PDF objects out of 1000 (max. 8388607)
+ 263 compressed objects within 3 object streams
+ 48 named destinations out of 1000 (max. 500000)
+ 37583 words of extra memory for PDF output out of 42996 (max. 10000000)
 
